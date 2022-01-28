@@ -14,6 +14,7 @@
 		5202AC0E27A45CE800B84543 /* Homework_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5202AC0D27A45CE800B84543 /* Homework_2Tests.swift */; };
 		5202AC1827A45CE800B84543 /* Homework_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5202AC1727A45CE800B84543 /* Homework_2UITests.swift */; };
 		5202AC1A27A45CE800B84543 /* Homework_2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5202AC1927A45CE800B84543 /* Homework_2UITestsLaunchTests.swift */; };
+		5202AC2727A45D0300B84543 /* 2_1_2_Subtractive_Cancellation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5202AC2627A45D0300B84543 /* 2_1_2_Subtractive_Cancellation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		5202AC1327A45CE800B84543 /* Homework 2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Homework 2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5202AC1727A45CE800B84543 /* Homework_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homework_2UITests.swift; sourceTree = "<group>"; };
 		5202AC1927A45CE800B84543 /* Homework_2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homework_2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5202AC2627A45D0300B84543 /* 2_1_2_Subtractive_Cancellation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2_1_2_Subtractive_Cancellation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				5202ABFB27A45CE500B84543 /* Homework_2App.swift */,
 				5202ABFD27A45CE500B84543 /* ContentView.swift */,
+				5202AC2627A45D0300B84543 /* 2_1_2_Subtractive_Cancellation.swift */,
 				5202ABFF27A45CE700B84543 /* Assets.xcassets */,
 				5202AC0427A45CE700B84543 /* Homework_2.entitlements */,
 				5202AC0127A45CE700B84543 /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5202ABFE27A45CE500B84543 /* ContentView.swift in Sources */,
+				5202AC2727A45D0300B84543 /* 2_1_2_Subtractive_Cancellation.swift in Sources */,
 				5202ABFC27A45CE500B84543 /* Homework_2App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
